@@ -8,3 +8,7 @@ h1 {
 	font-family: sans-serif;
 	color: #00cc00;
 }
+
+body {
+	padding-top: 100px;
+}
