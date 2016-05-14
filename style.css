@@ -12,3 +12,10 @@ h1 {
 body {
 	padding-top: 100px;
 }
+
+.navbar {
+	background-color: #d6d6c2;
+	color: black;
+	border-style: solid;
+	border-color: black;
+}
